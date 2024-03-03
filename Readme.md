@@ -32,7 +32,7 @@ Compile the program using a C++ compiler, such as g++: g++ car_rental_system.cpp
 Execution:
 Run the compiled executable: ./car_rental_system
 Follow the prompts on the console to navigate through different functionalities.
-Enter '4' to exit the program.
+Enter any integer other than 1,2 and 3 to exit the program.
 
 File Structure:
 
