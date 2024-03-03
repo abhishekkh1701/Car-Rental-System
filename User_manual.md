@@ -13,6 +13,7 @@ To begin using the Car Rental System, follow these steps:
 Customer:
 
 If you are a customer, you can:
+
     Log in if you already have an account.
     Register if you are a new user.
     View available cars for rent.
