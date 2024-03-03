@@ -1,0 +1,6 @@
+car1,ABC123,5,10,0,user3,10
+car2,XYZ456,4,15,0,user3,12
+car3,DEF789,5,20,1,None,0
+car4,GHI012,4,30,1,None,0
+car5,JKL345,5,40,1,None,0
+car17,ak17,5,1200,1,None,0
